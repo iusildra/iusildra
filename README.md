@@ -21,7 +21,7 @@ Software engineer student in the last year of my master's degree at [Polytech Mo
 
 Functional programming & Scala enthusiast, currently deepening my knowledge of the language and its ecosystem.
 
-I also started participating in conference organization (Sunny Tech)
+I also started participating in the organization of conferences  (Sunny Tech)
 
 ## 📚 What do I use ?
 
@@ -100,7 +100,6 @@ I also started participating in conference organization (Sunny Tech)
         </a>
       </div>
     </td>
-
   </tr>
 </table>
 
@@ -140,9 +139,16 @@ I also started participating in conference organization (Sunny Tech)
   </tr>
 </table>
 
-## 📈 Some stats (because it's a pretty card)
+## 📈 Some stats
+
+<div align="center">
 
 ![Some stats](https://github-readme-stats.vercel.app/api?username=iusildra&theme=blue-green&show_icons=true&show=reviews)
+
+![Some stats](https://api.githubtrends.io/user/svg/iusildra/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+![Some stats](https://api.githubtrends.io/user/svg/iusildra/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+
+</div>
 
 ## 💬 What else ? Hiking :mountain:, biking :bicyclist:, horse riding :horse:, via ferrata :climbing:...
 
