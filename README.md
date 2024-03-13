@@ -107,30 +107,49 @@ I also started participating in the organization of conferences  (Sunny Tech)
 
 <table>
   <tr>
+    <th><h3 align="center">Scala.IO website</h3></th>
     <th><h3 align="center">Scala debugger for VS Code</h3></th>
-    <th><h3 align="center">Scala 3 compiler</h3></th>
   </tr>
   <tr height="max-content">
     <td width="50%" align="center">
-      <a href="https://github.com/scalacenter/scala-debug-adapter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scalacenter&repo=scala-debug-adapter">
+      <a href="https://github.com/ScalaIO/scala.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ScalaIO&repo=scala.io">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/lampepfl/dotty">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lampepfl&repo=dotty">
+      <a href="https://github.com/scalacenter/scala-debug-adapter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scalacenter&repo=scala-debug-adapter">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li>Created a new evaluation mode</li>
-        <li>Fixed a few bugs</li>
-        <li>Working on hot code reload</li>
+        <li>UI written in <a href="https://www.scala-js.org">Scala.js</a></li>
+        <li>Reactive UI with <a href="https://laminar.dev">Laminar</a></li>
+        <li>Bits of code generation</li>
       </ul>
     </td>
     <td>
+      <ul>
+        <li>Created a new evaluation mode</li>
+        <li>Worked on hot code reload</li>
+        <li>Fixed a few bugs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan=2><h3 align="center">Scala 3 compiler</h3></th>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://github.com/lampepfl/dotty">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lampepfl&repo=dotty">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
       <ul>
         <li>Progressively landing on the compiler with the <a href="https://compileracademy.carrd.co">scala compiler academy</a></li>
         <li><b>trying</b> to fix some issues</li>
