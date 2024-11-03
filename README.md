@@ -17,11 +17,11 @@
 
 ## 🔍 `whoami` ?
 
-Software engineer student in the last year of my master's degree at [Polytech Montpellier](https://www.polytech.umontpellier.fr/english/).
+Software engineer at Teads
 
-Functional programming & Scala enthusiast, currently deepening my knowledge of the language and its ecosystem.
+Functional programming & Scala enthusiast, who lost his way into the frontend world and built up a [draft portfolio](https://iusildra.dev)
 
-I also started participating in the organization of conferences  (Sunny Tech)
+Sunny Guard 🦩
 
 ## 📚 What do I use ?
 
